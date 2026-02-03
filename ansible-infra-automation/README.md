@@ -21,3 +21,6 @@ Run a playbook against your inventory:
 
 ```bash
 ansible-playbook -i inventory/hosts.ini playbooks/system_prep.yml
+🧩 About This Project
+Created as part of my ongoing work in infrastructure automation, identity engineering, and hybrid enterprise environments.
+This repo highlights my approach to clean, scalable, and maintainable automation using Ansible.
