@@ -12,22 +12,26 @@ Core Capabilities
 - Audit log export and retention workflows
 - Risky user and sign‑in analysis
 - Data loss prevention (DLP) patterns
+
 👤 Identity & Access
 - User lifecycle management
 - Group‑based access patterns
 - License assignment workflows
 - Hybrid identity considerations (AD DS + Azure AD)
 - SSO and federation alignment
+
 📨 Exchange Online
 - Mailbox provisioning
 - Shared mailbox governance
 - Transport rules and anti‑spam/anti‑phish baselines
 - Mailbox size and quota reporting
+
 📁 SharePoint & Teams
 - Governance and naming standards
 - External sharing controls
 - Retention and compliance policies
 - Team lifecycle and archival patterns
+
 📱 Intune MDM/MAM
 - Device compliance baselines
 - App protection policies
