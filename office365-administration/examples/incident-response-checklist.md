@@ -1,5 +1,7 @@
 Incident Response Checklist
+
 Operational guide for Office 365 security events
+
 This checklist outlines the steps required to investigate, contain, and remediate security incidents within an Office 365 environment. It is designed for administrators, security analysts, and on‑call responders who need a clear, repeatable workflow.
 
 1. Initial Detection
